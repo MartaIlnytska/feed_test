@@ -1,52 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SHOP xmlns="http://www.heureka.cz/ns/export/1.2">
-    <SHOPITEM>
-        <ITEM_ID>1001</ITEM_ID>
-        <PRODUCTNAME>Apple iPhone 14 128GB Černý</PRODUCTNAME>
-        <PRODUCT>Apple iPhone 14</PRODUCT>
-        <DESCRIPTION>Výkonný smartphone Apple iPhone 14 s 128GB pamětí v černé barvě.</DESCRIPTION>
-        <URL>https://www.tvoje-domena.cz/iphone-14-128gb-cerny</URL>
-        <IMGURL>https://www.tvoje-domena.cz/images/iphone14-black.jpg</IMGURL>
-        <PRICE_VAT>19990</PRICE_VAT>
-        <CURRENCY>CZK</CURRENCY>
-        <MANUFACTURER>Apple</MANUFACTURER>
-        <CATEGORYTEXT>Elektronika | Mobilní telefony</CATEGORYTEXT>
-        <EAN>194253408123</EAN>
-        <DELIVERY_DATE>0</DELIVERY_DATE>
-        <ITEMGROUP_ID>iphone14</ITEMGROUP_ID>
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+    <item>   
+    <Pricing>
+        <PriceWithFee>5000</PriceWithFee>
+        <PriceWithoutFee>4000</PriceWithoutFee>
+        <RecycleFee>500</RecycleFee>
+        <CopyrightFee>500</CopyrightFee>
+        <Currency>CZK</Currency>
+    </Pricing>
+    <Storage>
+        <StoredQuantity>24</StoredQuantity>
+    </Storage>
+    <Product>
+        <Name>Židle</Name>
+        <DealerCode>4532</DealerCode>
+        <PartNumber>345</PartNumber>
+        <Ean>7657647678</Ean>
+    </Product>
+    </item>
 
-        <PARAM>
-            <PARAM_NAME>Barva</PARAM_NAME>
-            <VAL>Černá</VAL>
-        </PARAM>
-        <PARAM>
-            <PARAM_NAME>Paměť</PARAM_NAME>
-            <VAL>128 GB</VAL>
-        </PARAM>
-    </SHOPITEM>
 
-    <SHOPITEM>
-        <ITEM_ID>1002</ITEM_ID>
-        <PRODUCTNAME>Samsung Galaxy S23 256GB Zelený</PRODUCTNAME>
-        <PRODUCT>Samsung Galaxy S23</PRODUCT>
-        <DESCRIPTION>Moderní telefon Samsung Galaxy S23 s velkou pamětí a skvělým výkonem.</DESCRIPTION>
-        <URL>https://www.tvoje-domena.cz/samsung-galaxy-s23-256gb-zeleny</URL>
-        <IMGURL>https://www.tvoje-domena.cz/images/galaxy-s23-green.jpg</IMGURL>
-        <PRICE_VAT>18990</PRICE_VAT>
-        <CURRENCY>CZK</CURRENCY>
-        <MANUFACTURER>Samsung</MANUFACTURER>
-        <CATEGORYTEXT>Elektronika | Mobilní telefony</CATEGORYTEXT>
-        <EAN>8806094721234</EAN>
-        <DELIVERY_DATE>1</DELIVERY_DATE>
-        <ITEMGROUP_ID>galaxys23</ITEMGROUP_ID>
-
-        <PARAM>
-            <PARAM_NAME>Barva</PARAM_NAME>
-            <VAL>Zelená</VAL>
-        </PARAM>
-        <PARAM>
-            <PARAM_NAME>Paměť</PARAM_NAME>
-            <VAL>256 GB</VAL>
-        </PARAM>
-    </SHOPITEM>
-</SHOP>
+    <item>   
+    <Pricing>
+        <PriceWithFee>10000</PriceWithFee>
+        <PriceWithoutFee>8250</PriceWithoutFee>
+        <RecycleFee>750</RecycleFee>
+        <CopyrightFee>1000</CopyrightFee>
+        <Currency>CZK</Currency>
+    </Pricing>
+    <Storage>
+        <StoredQuantity>15</StoredQuantity>
+    </Storage>
+    <Product>
+        <Name>Stůl</Name>
+        <DealerCode>1234</DealerCode>
+        <PartNumber>12</PartNumber>
+        <Ean>44321245</Ean>
+    </Product>
+    </item>
+</items>

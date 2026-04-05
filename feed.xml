@@ -1,13 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SHOP>
   <SHOPITEM>
-    <ITEM_ID>1</ITEM_ID>
-    <PRODUCTNAME>Testovací produkt</PRODUCTNAME>
-    <DESCRIPTION>Popis produktu</DESCRIPTION>
-    <URL>https://example.com/produkt</URL>
-    <IMGURL>https://via.placeholder.com/150</IMGURL>
-    <PRICE_VAT>199</PRICE_VAT>
+    <ITEM_ID>1001</ITEM_ID>
+    <PRODUCTNAME>Apple iPhone 13 128GB</PRODUCTNAME>
+    <DESCRIPTION>Výkonný smartphone Apple s 6,1" displejem a duálním fotoaparátem.</DESCRIPTION>
+    <URL>https://example.com/iphone-13</URL>
+    <IMGURL>https://via.placeholder.com/300x300</IMGURL>
+    <PRICE_VAT>15990</PRICE_VAT>
     <CURRENCY>CZK</CURRENCY>
-    <CATEGORYTEXT>Testovací kategorie</CATEGORYTEXT>
+    <CATEGORYTEXT>Elektronika | Mobilní telefony</CATEGORYTEXT>
+    <MANUFACTURER>Apple</MANUFACTURER>
+  </SHOPITEM>
+
+  <SHOPITEM>
+    <ITEM_ID>1002</ITEM_ID>
+    <PRODUCTNAME>Samsung Galaxy S23</PRODUCTNAME>
+    <DESCRIPTION>Moderní telefon Samsung s výkonným procesorem a kvalitním fotoaparátem.</DESCRIPTION>
+    <URL>https://example.com/galaxy-s23</URL>
+    <IMGURL>https://via.placeholder.com/300x300</IMGURL>
+    <PRICE_VAT>18990</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <CATEGORYTEXT>Elektronika | Mobilní telefony</CATEGORYTEXT>
+    <MANUFACTURER>Samsung</MANUFACTURER>
+  </SHOPITEM>
+
+  <SHOPITEM>
+    <ITEM_ID>1003</ITEM_ID>
+    <PRODUCTNAME>Notebook Lenovo IdeaPad 3</PRODUCTNAME>
+    <DESCRIPTION>Spolehlivý notebook pro práci i zábavu s 15,6" displejem.</DESCRIPTION>
+    <URL>https://example.com/lenovo-ideapad</URL>
+    <IMGURL>https://via.placeholder.com/300x300</IMGURL>
+    <PRICE_VAT>12990</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <CATEGORYTEXT>Elektronika | Notebooky</CATEGORYTEXT>
+    <MANUFACTURER>Lenovo</MANUFACTURER>
+  </SHOPITEM>
+
+  <SHOPITEM>
+    <ITEM_ID>1004</ITEM_ID>
+    <PRODUCTNAME>Sony WH-1000XM5</PRODUCTNAME>
+    <DESCRIPTION>Bezdrátová sluchátka s aktivním potlačením hluku.</DESCRIPTION>
+    <URL>https://example.com/sony-wh1000xm5</URL>
+    <IMGURL>https://via.placeholder.com/300x300</IMGURL>
+    <PRICE_VAT>8990</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <CATEGORYTEXT>Elektronika | Sluchátka</CATEGORYTEXT>
+    <MANUFACTURER>Sony</MANUFACTURER>
+  </SHOPITEM>
+
+  <SHOPITEM>
+    <ITEM_ID>1005</ITEM_ID>
+    <PRODUCTNAME>Xiaomi Mi Smart Band 7</PRODUCTNAME>
+    <DESCRIPTION>Fitness náramek s měřením tepu a spánku.</DESCRIPTION>
+    <URL>https://example.com/mi-band-7</URL>
+    <IMGURL>https://via.placeholder.com/300x300</IMGURL>
+    <PRICE_VAT>1290</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <CATEGORYTEXT>Elektronika | Wearables</CATEGORYTEXT>
+    <MANUFACTURER>Xiaomi</MANUFACTURER>
   </SHOPITEM>
 </SHOP>

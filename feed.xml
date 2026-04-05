@@ -10,11 +10,11 @@
         <PRICE_VAT>19990</PRICE_VAT>
         <CURRENCY>CZK</CURRENCY>
         <MANUFACTURER>Apple</MANUFACTURER>
-        <CATEGORYTEXT>Mobilní telefony</CATEGORYTEXT>
-        <EAN>1942534081234</EAN>
+        <CATEGORYTEXT>Heureka.cz | Elektronika | Mobilní telefony</CATEGORYTEXT>
         <DELIVERY_DATE>0</DELIVERY_DATE>
         <ITEMGROUP_ID>iphone14</ITEMGROUP_ID>
         <STOCK_QUANTITY>10</STOCK_QUANTITY>
+        <HEUREKA_CPC>5</HEUREKA_CPC>
 
         <PARAM>
             <PARAM_NAME>Barva</PARAM_NAME>
@@ -36,11 +36,11 @@
         <PRICE_VAT>18990</PRICE_VAT>
         <CURRENCY>CZK</CURRENCY>
         <MANUFACTURER>Samsung</MANUFACTURER>
-        <CATEGORYTEXT>Mobilní telefony</CATEGORYTEXT>
-        <EAN>8806094721234</EAN>
+        <CATEGORYTEXT>Heureka.cz | Elektronika | Mobilní telefony</CATEGORYTEXT>
         <DELIVERY_DATE>1</DELIVERY_DATE>
         <ITEMGROUP_ID>galaxys23</ITEMGROUP_ID>
         <STOCK_QUANTITY>5</STOCK_QUANTITY>
+        <HEUREKA_CPC>5</HEUREKA_CPC>
 
         <PARAM>
             <PARAM_NAME>Barva</PARAM_NAME>

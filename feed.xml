@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SHOP>
+<SHOP xmlns="http://www.heureka.cz/ns/export/1.2"><SHOP>
   <SHOPITEM>
     <ITEM_ID>1001</ITEM_ID>
     <PRODUCTNAME>Apple iPhone 13 128GB</PRODUCTNAME>

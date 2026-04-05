@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SHOP>
+  <SHOPITEM>
+    <ITEM_ID>1001</ITEM_ID>
+    <PRODUCTNAME>Nike Air Max 270 Black</PRODUCTNAME>
+    <DESCRIPTION>Pánské tenisky Nike Air Max 270 v černé barvě, pohodlné na každodenní nošení.</DESCRIPTION>
+    <URL>https://example.com/nike-air-max-270</URL>
+    <IMGURL>https://via.placeholder.com/300x300</IMGURL>
+    <PRICE_VAT>2999</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <MANUFACTURER>Nike</MANUFACTURER>
+    <CATEGORYTEXT>Obuv | Tenisky | Pánské</CATEGORYTEXT>
+    <EAN>193658123456</EAN>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY>
+      <DELIVERY_ID>PPL</DELIVERY_ID>
+      <DELIVERY_PRICE>99</DELIVERY_PRICE>
+    </DELIVERY>
+    <PARAM>
+      <PARAM_NAME>Velikost</PARAM_NAME>
+      <VAL>42</VAL>
+    </PARAM>
+    <PARAM>
+      <PARAM_NAME>Barva</PARAM_NAME>
+      <VAL>Černá</VAL>
+    </PARAM>
+  </SHOPITEM>
+
+  <SHOPITEM>
+    <ITEM_ID>1002</ITEM_ID>
+    <PRODUCTNAME>Apple iPhone 13 128GB Midnight</PRODUCTNAME>
+    <DESCRIPTION>Výkonný smartphone Apple iPhone 13 s 128GB pamětí v elegantní černé barvě.</DESCRIPTION>
+    <URL>https://example.com/iphone-13</URL>
+    <IMGURL>https://via.placeholder.com/300x300</IMGURL>
+    <PRICE_VAT>17990</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <MANUFACTURER>Apple</MANUFACTURER>
+    <CATEGORYTEXT>Elektronika | Mobilní telefony</CATEGORYTEXT>
+    <EAN>0194252701234</EAN>
+    <DELIVERY_DATE>1</DELIVERY_DATE>
+    <DELIVERY>
+      <DELIVERY_ID>Zasilkovna</DELIVERY_ID>
+      <DELIVERY_PRICE>79</DELIVERY_PRICE>
+    </DELIVERY>
+    <PARAM>
+      <PARAM_NAME>Paměť</PARAM_NAME>
+      <VAL>128 GB</VAL>
+    </PARAM>
+    <PARAM>
+      <PARAM_NAME>Barva</PARAM_NAME>
+      <VAL>Midnight</VAL>
+    </PARAM>
+  </SHOPITEM>
+
+  <SHOPITEM>
+    <ITEM_ID>1003</ITEM_ID>
+    <PRODUCTNAME>Samsung 4K Smart TV 55"</PRODUCTNAME>
+    <DESCRIPTION>Chytrá televize Samsung s úhlopříčkou 55 palců a rozlišením 4K UHD.</DESCRIPTION>
+    <URL>https://example.com/samsung-tv-55</URL>
+    <IMGURL>https://via.placeholder.com/300x300</IMGURL>
+    <PRICE_VAT>12990</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <MANUFACTURER>Samsung</MANUFACTURER>
+    <CATEGORYTEXT>Elektronika | Televize</CATEGORYTEXT>
+    <EAN>8806090123456</EAN>
+    <DELIVERY_DATE>2</DELIVERY_DATE>
+    <DELIVERY>
+      <DELIVERY_ID>DPD</DELIVERY_ID>
+      <DELIVERY_PRICE>0</DELIVERY_PRICE>
+    </DELIVERY>
+    <PARAM>
+      <PARAM_NAME>Úhlopříčka</PARAM_NAME>
+      <VAL>55"</VAL>
+    </PARAM>
+    <PARAM>
+      <PARAM_NAME>Rozlišení</PARAM_NAME>
+      <VAL>4K</VAL>
+    </PARAM>
+  </SHOPITEM>
+
+  <SHOPITEM>
+    <ITEM_ID>1004</ITEM_ID>
+    <PRODUCTNAME>Adidas Hoodie Essentials Grey</PRODUCTNAME>
+    <DESCRIPTION>Pohodlná mikina Adidas s kapucí v šedé barvě.</DESCRIPTION>
+    <URL>https://example.com/adidas-hoodie</URL>
+    <IMGURL>https://via.placeholder.com/300x300</IMGURL>
+    <PRICE_VAT>1299</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <MANUFACTURER>Adidas</MANUFACTURER>
+    <CATEGORYTEXT>Oblečení | Mikiny</CATEGORYTEXT>
+    <EAN>4064051234567</EAN>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY>
+      <DELIVERY_ID>PPL</DELIVERY_ID>
+      <DELIVERY_PRICE>89</DELIVERY_PRICE>
+    </DELIVERY>
+    <PARAM>
+      <PARAM_NAME>Velikost</PARAM_NAME>
+      <VAL>M</VAL>
+    </PARAM>
+    <PARAM>
+      <PARAM_NAME>Barva</PARAM_NAME>
+      <VAL>Šedá</VAL>
+    </PARAM>
+  </SHOPITEM>
+
+  <SHOPITEM>
+    <ITEM_ID>1005</ITEM_ID>
+    <PRODUCTNAME>HP Pavilion 15 Laptop</PRODUCTNAME>
+    <DESCRIPTION>Notebook HP Pavilion 15 s procesorem Intel Core i5, 16GB RAM a SSD diskem.</DESCRIPTION>
+    <URL>https://example.com/hp-pavilion-15</URL>
+    <IMGURL>https://via.placeholder.com/300x300</IMGURL>
+    <PRICE_VAT>15990</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <MANUFACTURER>HP</MANUFACTURER>
+    <CATEGORYTEXT>Elektronika | Notebooky</CATEGORYTEXT>
+    <EAN>0195123456789</EAN>
+    <DELIVERY_DATE>1</DELIVERY_DATE>
+    <DELIVERY>
+      <DELIVERY_ID>DPD</DELIVERY_ID>
+      <DELIVERY_PRICE>0</DELIVERY_PRICE>
+    </DELIVERY>
+    <PARAM>
+      <PARAM_NAME>RAM</PARAM_NAME>
+      <VAL>16 GB</VAL>
+    </PARAM>
+    <PARAM>
+      <PARAM_NAME>Disk</PARAM_NAME>
+      <VAL>512 GB SSD</VAL>
+    </PARAM>
+  </SHOPITEM>
+
+</SHOP>

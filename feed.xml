@@ -1,144 +1,54 @@
-<?xml version="1.0" encoding="utf-8"?>
-<SHOP xmlns="http://www.heureka.cz/ns/export/1.2">
+<?xml version="1.0" encoding="UTF-8"?>
+<SHOP>
+    <SHOPITEM>
+        <ITEM_ID>IP14-128-BLK</ITEM_ID>
+        <PRODUCTNAME>Apple iPhone 14 128GB Černý</PRODUCTNAME>
+        <PRODUCT>Apple iPhone 14</PRODUCT>
+        <DESCRIPTION>Apple iPhone 14 s 128GB pamětí, 6.1" displejem a výkonným čipem A15 Bionic.</DESCRIPTION>
+        <URL>https://www.alza.cz/apple-iphone-14-128gb-cerny-d7370441.htm</URL>
+        <IMGURL>https://i.alza.cz/Foto/f5/RI/RI045i1.jpg</IMGURL>
+        <PRICE_VAT>19990</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <MANUFACTURER>Apple</MANUFACTURER>
+        <CATEGORYTEXT>Mobilní telefony</CATEGORYTEXT>
+        <EAN>1942534081234</EAN>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
+        <ITEMGROUP_ID>iphone14</ITEMGROUP_ID>
+        <STOCK_QUANTITY>10</STOCK_QUANTITY>
 
-  <SHOPITEM>
-    <ITEM_ID>IP14-128-BLK</ITEM_ID>
-    <PRODUCTNAME>Apple iPhone 14 128GB Černý</PRODUCTNAME>
-    <PRODUCT>Apple iPhone 14</PRODUCT>
-    <DESCRIPTION>Moderní smartphone s výkonným čipem A15 Bionic a kvalitním fotoaparátem.</DESCRIPTION>
-    <URL>https://www.alza.cz/apple-iphone-14-128gb-cerny-d7370441.htm</URL>
-    <IMGURL>https://i.alza.cz/Foto/f5/RI/RI045i1.jpg</IMGURL>
-    <IMGURL_ALTERNATIVE>https://i.alza.cz/Foto/f6/RI/RI045i2.jpg</IMGURL_ALTERNATIVE>
-    <PRICE_VAT>19990</PRICE_VAT>
-    <HEUREKA_CPC>6</HEUREKA_CPC>
-    <MANUFACTURER>Apple</MANUFACTURER>
-    <MANUFACTURER_POSTAL_ADDRESS>One Apple Park Way, Cupertino</MANUFACTURER_POSTAL_ADDRESS>
-    <MANUFACTURER_ELECTRONIC_ADDRESS>support@apple.com</MANUFACTURER_ELECTRONIC_ADDRESS>
-    <CATEGORYTEXT>Elektronika | Mobilní telefony</CATEGORYTEXT>
-    <EAN>0194253408123</EAN>
-    <PARAM>
-      <PARAM_NAME>Barva</PARAM_NAME>
-      <VAL>Černá</VAL>
-    </PARAM>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
-    <DELIVERY>
-      <DELIVERY_ID>PPL</DELIVERY_ID>
-      <DELIVERY_PRICE>99</DELIVERY_PRICE>
-      <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
-    </DELIVERY>
-    <ITEMGROUP_ID>iphone14</ITEMGROUP_ID>
-  </SHOPITEM>
+        <PARAM>
+            <PARAM_NAME>Barva</PARAM_NAME>
+            <VAL>Černá</VAL>
+        </PARAM>
+        <PARAM>
+            <PARAM_NAME>Paměť</PARAM_NAME>
+            <VAL>128 GB</VAL>
+        </PARAM>
+    </SHOPITEM>
 
-  <SHOPITEM>
-    <ITEM_ID>SGS23-256-GRN</ITEM_ID>
-    <PRODUCTNAME>Samsung Galaxy S23 256GB Zelený</PRODUCTNAME>
-    <PRODUCT>Samsung Galaxy S23</PRODUCT>
-    <DESCRIPTION>Výkonný telefon s AMOLED displejem a špičkovým fotoaparátem.</DESCRIPTION>
-    <URL>https://www.alza.cz/samsung-galaxy-s23-5g-256gb-zeleny-d7665555.htm</URL>
-    <IMGURL>https://i.alza.cz/Foto/f5/SA/SA023d3.jpg</IMGURL>
-    <IMGURL_ALTERNATIVE>https://i.alza.cz/Foto/f6/SA/SA023d4.jpg</IMGURL_ALTERNATIVE>
-    <PRICE_VAT>18990</PRICE_VAT>
-    <HEUREKA_CPC>5.5</HEUREKA_CPC>
-    <MANUFACTURER>Samsung</MANUFACTURER>
-    <MANUFACTURER_POSTAL_ADDRESS>Seocho District, Seoul</MANUFACTURER_POSTAL_ADDRESS>
-    <MANUFACTURER_ELECTRONIC_ADDRESS>support@samsung.com</MANUFACTURER_ELECTRONIC_ADDRESS>
-    <CATEGORYTEXT>Elektronika | Mobilní telefony</CATEGORYTEXT>
-    <EAN>8806094721234</EAN>
-    <PARAM>
-      <PARAM_NAME>Barva</PARAM_NAME>
-      <VAL>Zelená</VAL>
-    </PARAM>
-    <DELIVERY_DATE>1</DELIVERY_DATE>
-    <DELIVERY>
-      <DELIVERY_ID>CESKA_POSTA</DELIVERY_ID>
-      <DELIVERY_PRICE>120</DELIVERY_PRICE>
-      <DELIVERY_PRICE_COD>150</DELIVERY_PRICE_COD>
-    </DELIVERY>
-    <ITEMGROUP_ID>galaxys23</ITEMGROUP_ID>
-  </SHOPITEM>
+    <SHOPITEM>
+        <ITEM_ID>SGS23-256-GRN</ITEM_ID>
+        <PRODUCTNAME>Samsung Galaxy S23 256GB Zelený</PRODUCTNAME>
+        <PRODUCT>Samsung Galaxy S23</PRODUCT>
+        <DESCRIPTION>Samsung Galaxy S23 s 256GB úložištěm, AMOLED displejem a špičkovým výkonem.</DESCRIPTION>
+        <URL>https://www.alza.cz/samsung-galaxy-s23-5g-256gb-zeleny-d7665555.htm</URL>
+        <IMGURL>https://i.alza.cz/Foto/f5/SA/SA023d3.jpg</IMGURL>
+        <PRICE_VAT>18990</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <MANUFACTURER>Samsung</MANUFACTURER>
+        <CATEGORYTEXT>Mobilní telefony</CATEGORYTEXT>
+        <EAN>8806094721234</EAN>
+        <DELIVERY_DATE>1</DELIVERY_DATE>
+        <ITEMGROUP_ID>galaxys23</ITEMGROUP_ID>
+        <STOCK_QUANTITY>5</STOCK_QUANTITY>
 
-  <SHOPITEM>
-    <ITEM_ID>XIA13-256-BLU</ITEM_ID>
-    <PRODUCTNAME>Xiaomi 13 256GB Modrý</PRODUCTNAME>
-    <PRODUCT>Xiaomi 13</PRODUCT>
-    <DESCRIPTION>Elegantní telefon s vysokým výkonem a kvalitním displejem.</DESCRIPTION>
-    <URL>https://www.alza.cz/xiaomi-13-256gb-modry-d1234567.htm</URL>
-    <IMGURL>https://i.alza.cz/Foto/f5/XI/XI013a1.jpg</IMGURL>
-    <IMGURL_ALTERNATIVE>https://i.alza.cz/Foto/f6/XI/XI013a2.jpg</IMGURL_ALTERNATIVE>
-    <PRICE_VAT>15990</PRICE_VAT>
-    <HEUREKA_CPC>4.8</HEUREKA_CPC>
-    <MANUFACTURER>Xiaomi</MANUFACTURER>
-    <MANUFACTURER_POSTAL_ADDRESS>Beijing, China</MANUFACTURER_POSTAL_ADDRESS>
-    <MANUFACTURER_ELECTRONIC_ADDRESS>support@xiaomi.com</MANUFACTURER_ELECTRONIC_ADDRESS>
-    <CATEGORYTEXT>Elektronika | Mobilní telefony</CATEGORYTEXT>
-    <EAN>6934177771234</EAN>
-    <PARAM>
-      <PARAM_NAME>Barva</PARAM_NAME>
-      <VAL>Modrá</VAL>
-    </PARAM>
-    <DELIVERY_DATE>2</DELIVERY_DATE>
-    <DELIVERY>
-      <DELIVERY_ID>PPL</DELIVERY_ID>
-      <DELIVERY_PRICE>89</DELIVERY_PRICE>
-      <DELIVERY_PRICE_COD>119</DELIVERY_PRICE_COD>
-    </DELIVERY>
-    <ITEMGROUP_ID>xiaomi13</ITEMGROUP_ID>
-  </SHOPITEM>
-
-  <SHOPITEM>
-    <ITEM_ID>PIXEL8-128-WHT</ITEM_ID>
-    <PRODUCTNAME>Google Pixel 8 128GB Bílý</PRODUCTNAME>
-    <PRODUCT>Google Pixel 8</PRODUCT>
-    <DESCRIPTION>Telefon od Googlu s čistým Androidem a skvělým fotoaparátem.</DESCRIPTION>
-    <URL>https://www.alza.cz/google-pixel-8-128gb-bily-d7654321.htm</URL>
-    <IMGURL>https://i.alza.cz/Foto/f5/GO/GO008a1.jpg</IMGURL>
-    <IMGURL_ALTERNATIVE>https://i.alza.cz/Foto/f6/GO/GO008a2.jpg</IMGURL_ALTERNATIVE>
-    <PRICE_VAT>17990</PRICE_VAT>
-    <HEUREKA_CPC>5.2</HEUREKA_CPC>
-    <MANUFACTURER>Google</MANUFACTURER>
-    <MANUFACTURER_POSTAL_ADDRESS>1600 Amphitheatre Parkway</MANUFACTURER_POSTAL_ADDRESS>
-    <MANUFACTURER_ELECTRONIC_ADDRESS>support@google.com</MANUFACTURER_ELECTRONIC_ADDRESS>
-    <CATEGORYTEXT>Elektronika | Mobilní telefony</CATEGORYTEXT>
-    <EAN>0840244701234</EAN>
-    <PARAM>
-      <PARAM_NAME>Barva</PARAM_NAME>
-      <VAL>Bílá</VAL>
-    </PARAM>
-    <DELIVERY_DATE>1</DELIVERY_DATE>
-    <DELIVERY>
-      <DELIVERY_ID>CESKA_POSTA</DELIVERY_ID>
-      <DELIVERY_PRICE>110</DELIVERY_PRICE>
-      <DELIVERY_PRICE_COD>140</DELIVERY_PRICE_COD>
-    </DELIVERY>
-    <ITEMGROUP_ID>pixel8</ITEMGROUP_ID>
-  </SHOPITEM>
-
-  <SHOPITEM>
-    <ITEM_ID>ONE11-256-BLK</ITEM_ID>
-    <PRODUCTNAME>OnePlus 11 256GB Černý</PRODUCTNAME>
-    <PRODUCT>OnePlus 11</PRODUCT>
-    <DESCRIPTION>Rychlý telefon s plynulým systémem a kvalitním výkonem.</DESCRIPTION>
-    <URL>https://www.alza.cz/oneplus-11-256gb-cerny-d9876543.htm</URL>
-    <IMGURL>https://i.alza.cz/Foto/f5/OP/OP011a1.jpg</IMGURL>
-    <IMGURL_ALTERNATIVE>https://i.alza.cz/Foto/f6/OP/OP011a2.jpg</IMGURL_ALTERNATIVE>
-    <PRICE_VAT>16990</PRICE_VAT>
-    <HEUREKA_CPC>4.9</HEUREKA_CPC>
-    <MANUFACTURER>OnePlus</MANUFACTURER>
-    <MANUFACTURER_POSTAL_ADDRESS>Shenzhen, China</MANUFACTURER_POSTAL_ADDRESS>
-    <MANUFACTURER_ELECTRONIC_ADDRESS>support@oneplus.com</MANUFACTURER_ELECTRONIC_ADDRESS>
-    <CATEGORYTEXT>Elektronika | Mobilní telefony</CATEGORYTEXT>
-    <EAN>6921815612345</EAN>
-    <PARAM>
-      <PARAM_NAME>Barva</PARAM_NAME>
-      <VAL>Černá</VAL>
-    </PARAM>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
-    <DELIVERY>
-      <DELIVERY_ID>PPL</DELIVERY_ID>
-      <DELIVERY_PRICE>95</DELIVERY_PRICE>
-      <DELIVERY_PRICE_COD>125</DELIVERY_PRICE_COD>
-    </DELIVERY>
-    <ITEMGROUP_ID>oneplus11</ITEMGROUP_ID>
-  </SHOPITEM>
-
+        <PARAM>
+            <PARAM_NAME>Barva</PARAM_NAME>
+            <VAL>Zelená</VAL>
+        </PARAM>
+        <PARAM>
+            <PARAM_NAME>Paměť</PARAM_NAME>
+            <VAL>256 GB</VAL>
+        </PARAM>
+    </SHOPITEM>
 </SHOP>
